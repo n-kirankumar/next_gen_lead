@@ -1,0 +1,10 @@
+pandas
+psycopg2
+sqlalchemy
+sqlalchemy
+requests
+paramiko
+flask_testing
+flask_restful
+dataset
+pytest
